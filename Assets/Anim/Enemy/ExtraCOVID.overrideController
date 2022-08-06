@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ExtraCOVID
+  m_Controller: {fileID: 9100000, guid: c932886519cb324448b06cf1d8b2a21c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 27b82d4134a1ac040840222a7ea03f8c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 70a5e5ba2995eb34b98fd9827e26b90c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e719219689c05214d97166a1941c30bb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e719219689c05214d97166a1941c30bb, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 98628298d63b92442a8b8e4621f71030, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 98628298d63b92442a8b8e4621f71030, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 386f7b0819f2eb548868fb410bb95c62, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 607006fec4ab555498151bce4c2f8d45, type: 2}
